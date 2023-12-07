@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Jurusan di UNDIP</string>
+    <string name="item_name">Nama Jurusan</string>
+    <string name="item_price">Akreditasi</string>
+    <string name="item_description">Sejarah Jurusan</string>
+    <string name="title_spec">Keahlian :</string>
+    <string name="item_specification">Materi yang dipelajari</string>
+    <string name="share">Bagikan</string>
+    <string name="about">Tentang Saya</string>
+
+    <string-array name="data_name">
+        <item>Teknik Sipil</item>
+        <item>Teknik Arsitektur</item>
+        <item>Teknik Kimia</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Elektro</item>
+        <item>Perencanaan Wilayah dan Kota</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Lingkungan</item>
+        <item>Teknik Perkapalan</item>
+        <item>Teknik Geodesi</item>
+    </string-array>
+
+    <string-array name="data_accreditation">
+        <item>(Unggul)\nSK No. 11374/SK/BAN-PT/Akred-Itnl/S/X/2021\nAkreditasi Internasional Melalui IABEE</item>
+        <item>(A)\nSK No. 2825/SK/BAN-PT/Akred/S/X/2018</item>
+        <item>(Unggul)\nSK No. 9231/SK/BAN-PT/Akred-Itnl/S/VII/2021\nAkreditasi Internasional Melalui IABEE</item>
+        <item>(A)\nSK No. 4069/SK/BAN-PT/Akred/S/X/2019</item>
+        <item>(Unggul)\nSK No. 2715/SK/BAN-PT/Akred-Itnl/S/V/2021\nAkreditasi Internasional Melalui IABEE</item>
+        <item>(A)\nSK No. 3494/SK/BAN-PT/Akred/S/XIII/2018</item>
+        <item>(Unggul)\nSK No. 11372/SK/BAN-PT/Akred-Itnl/S/X/2021\nAkreditasi Internasional Melalui IABEE</item>
+        <item>(Unggul)\nSK No. 11373/SK/BAN-PT/Akred-Itnl/S/X/2021\nAkreditasi Internasional Melalui IABEE</item>
+        <item>(A)\nSK No. 9026/SK/BAN-PT/Ak-PPJ/S/VI/2021</item>
+        <item>(A)\nSK No. 1614/SK/BAN-PT/Akred/S/VI/2018</item>
+    </string-array>
+    <string-array name="data_history">
+        <item>Jurusan Teknik Sipil adalah jurusan yang pertama di Fakultas Teknik Universitas Diponegoro dengan dosen tetap pertama adalah Prof. Ir. Sujanto Budiharso. Perkuliahan dilakukan pada sore hari meminjam sebuah gedung di sebelah barat Tugu Muda (saat ini menjadi gedung Wisma Perdamaian), kemudian pindah di Jl. MT. Haryono (dulu Jl. Mataram) No. 427 dengan menempati gedung milik Pelaksana Kuasa Perang (Pekuper) Tentara dan Teritorium IV, sebagai kampusnya. Kegiatan praktikum pada waktu itu dilaksanakan di instansi lain, diantaranya di Kantor Pendaftaran Tanah Semarang dan Universitas Gajah Mada Yogyakarta, kecuali praktikum hidrolika di Laboratorium Pengaliran yang terletak di Jl. DR. Sutomo (Kalisari), yang merupakan sumbangan dari Dinas Pekerjaan Umum.</item>
+        <item>Pada tahun 1962 dibuka Jurusan Teknik Arsitektur dengan Ketua Jurusan pertama    dijabat oleh Ir. Sidharta (Prof. Ir. Sidharta (alm), yang telah pensiun). Jurusan Arsitektur terakreditasi A melalui SK BAN-PT No. 028/BAN-PT/Ak-X/S1/XI/2007 pada tanggal 26-Nopember-2007. Jurusan Arsitektur juga  menginisiasi dibukanya Program Magister Teknik Arsitektur (S2) pada tahun 1998, dan bersama-sama Jurusan Pengembangan Wilayah dan Kota pada  tahun 2004 juga mendirikan  Program Doktor Teknik Arsitektur dan Perkotaan (PDTAP).</item>
+        <item>Pada tahun 1965 dibuka Jurusan Teknik Kimia dengan Ketua Jurusan pertama dijabat oleh Ir. Nisyamhuri (sudah pensiun). Pada tanggal 12 September 2003 Jurusan Teknik Kimia telah terakreditasi A melalui SK BAN-PT No. 029/BAN-PT/Ak-XI/S1/XI/2008. Pada tahun 2005 juga membuka Program Magister Teknik Kimia (S2).</item>
+        <item>Program studi Teknik Mesin dibuka pada tahun 1983 berdasarkan Surat Keputusan Rektor Undip, kemudian disusul dengan Surat Keputusan Dirjen Dikti No 43/DIKTI/KEP/1984 tanggal 21 Agustus 1984, dengan Ketua Program Studi pertama adalah Ir. Slamet Waluyo (almarhum). Program Studi Teknik Mesin menjadi Jurusan Teknik Mesin dengan SK Dirjen DIKTI.  No.78/DIKTI/Kep/1998. Jurusan Teknik Mesin pada tanggal 23 Mei 2009 telah mendapatkan akreditasi A melalui SK BAN-PT No. 010/BAN-PT/Ak-VII/S1/XI/2009. Pada tahun 2007 ini Jurusan Teknik Mesin telah membuka Program Magister Teknik Mesin (S2).</item>
+        <item>Dalam rangka ikut serta mencerdaskan kehidupan bangsa, Fakutas Teknik Universitas Diponegoro melakukan usaha membuka program studi baru. Khususnya untuk membuka Program Studi Teknik Elektro dan Teknik Mesin telah dikeluarkan Surat Keputusan Rektor Universitas Diponegoro Nomor : 144/SK/ PT09.3/1981, tanggal 19 Desember 1981, tentang Pembentukan Team Studi Kelayakan Kemungkinan Pembukaan Program Studi Baru.</item>
+        <item>Program Studi Teknik Perencanaan Wiliyah dan Kota dibuka pada tahun 1992 dengan Surat Keputusan Dirjen Dikti No.43/DIKTI/Kep/1992 tanggal 18 Maret 1992. Ketua Program Studi pertama adalah Dr.Ir.Soegiono Soetomo, DEA (sekarang Prof. Dr.Ir. Soegiono Soetomo, DEA). Program studi ini berganti menjadi Jurusan Perencanaan Wilayah dan Kota, dengan SK Dirjen DIKTI N. 79/DIKTI/Kep/1999. Jurusan Perencanaan Wilayah dan Kota terakreditasi A melalui SK BAN-PT No. 033/BAN-PT/Ak-X/S1/I/2008 pada tanggal 18 Januari 2008. Jurusan ini mengembangkan program Magister Teknik Pembangunan Kota (MTPK) pada tahun 1999. Pada tahun 2006 dikembangkan lagi program S2 Sistem Modular Magister Perencanaan Wilayah dan Kota bekerjasama dengan Departemen Pekerjaan Umum.</item>
+        <item>Mulai tahun 1998 dibuka Program Studi Teknik Industri yang ditetapkan dengan Surat Keputusan Dirjen Dikti No.51/DIKTI/KEP/1998 TANGAL 23 Pebruari 1998. Ketua Program Studi Teknik Industri pertama adalah Ir. R.M. Haryo Santoso, MM. Jurusan Teknik Industri terakreditasi B melalui SK BAN-PT No. 011/BAN-PT/Ak-X/S1/V/2007 pada tanggal 26 Mei 2007.</item>
+        <item>Dalam menghadapi tantangan globalisasi serta kegiatan pembangunan berkelanjutan, kebutuhan sumber daya manusia, baik tenaga terampil dan berkualitas juga responsif terhadap masalah lingkungan masih sangat diperlukan. Didorong oleh gagasan, kepercayaan, dasar dan semangat untuk menghadapi tantangan-tantangan ini, mendorong pembentukan Departemen Teknik Lingkungan, Universitas Diponegoro berdasarkan SURAT KEPUTUSAN DIREKTUR JENDRAL PENDIDIKAN TINGGI NO. 377/DIKTI/KEP/1998 yang ditentukan sejak 21 Oktober 1998.</item>
+        <item>Berdasarkan Surat Keputusan Dirjen Dikti No. 3206/D/T/2002 tanggal 28 Oktober 2002, pada tahun akademik 2003/2004 dibuka Program Studi Stata-1 Teknik Perkapalan dengan Ketua Program Studi Pertama : Ir. H. Sukanto Jatmiko.</item>
+        <item>Berdasarkan surat ijin Dirjen Dikti No. 3774/D/T/2004 tanggal 15 September 2004 pada tahun akademi 2005/2006 dibuka Program Studi S1 Geodesi dengan Ketua Program Studi Pertama : Ir. Bambang Sudarsono, MS.
+</item>
+    </string-array>
+
+    <string-array name="data_topic_learned">
+        <item>Dasar-dasar Teknik Sipil dan aplikasinya, Materi Soft Skill: Kepemimpinan, organisasi, kerjasama, komunikasi.</item>
+        <item>Desain Bangunan (building design) dan Desain Lingkungan Binaan (urban design) berbasis Sustainable Development yang tanggap terhadap dinamika sosial kultural, perkempangan ipteks pemanasan global, krisis energi &amp; bencana alam.</item>
+        <item>Dasar-dasar Teknik Kimia dan aplikasinya.</item>
+        <item>Pengetahuan dasar teknik mesin: Statika dan ilmu kekuatan bahan, Dinamika Teknik, Mekanika Fluida, Temodinamika, Material Teknik, Elemen mesin.\nPengetahuan keahlian teknik mesin: getaran mesin, perpindahan kalor, tata udara, studi karakterisasi, material, ilmu pembentukan logam, pengecoran logam, mesin konversi, energi proses produksi, mekatronika, teknik kendali.</item>
+        <item>Energi listrik, elektronika dan telekomunikasi, kontrol, komputer, dan informatika.</item>
+        <item>Berkaitan dengan Perencanaan Wilayah dan Kota, dalam bentuk mata kuliah seperti misalnya Perencanaan Kota, Perencanaa Tapak, Perencanaan Wilayah, Perencanaan Transportasi, Sistem Informasi Perencanaan, Ekonomi Wilayah dan Kota, Prasarana Wilayah dan Kota, Perumahan dan Pemukiman, Monitoring dan Evaluasi, sampai dengan analisis lokasi dan Pola Ruang.</item>
+        <item>Sistem manufaktur, Manajemen Industri, Sistem Industri, dan Tekno-Ekonomi.</item>
+        <item>Dasar-dasar Teknik Lingkungan dan Aplikasinya.</item>
+        <item>Perancangan Kapal, Konstruksi Kapal, Teknik Bangunan Kapal, Galangan Kapal, Permesinan Kapal, Bangunan Lepas Pantai, Teknik Pengelasan, Listrik Kapal, Sistem Perkapalan, Kapal Perikanan, Manajemen Industri Maritim, Teknologi Produksi Kapal, Teknologi kapal Tradisional, Manajemen Transportasi.</item>
+        <item>Dasar-dasar pengukuran teristris, Survey penentuan posisi dengan Global Navigation Satellite System (GNSS), Pengukuran dan Pemetaan Fotogrametris, Penginderaan Jauh dan Sistem Informasi Geografis, Survey Hidrografi &amp; Oceanografi, Survey Batas Wilayah, Survey Pelabuhan dan Perairan Pantai, Survey dan Pemetaan Digital, Survey Kadastral untuk keperluan Pendaftaran Tanah, dan Pengetahuan Software Survey Pemetaan, SIG dan Pengolahan Citra Digital.</item>
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/teknik_sipil</item>
+        <item>@drawable/teknik_arsitektur</item>
+        <item>@drawable/teknik_kimia</item>
+        <item>@drawable/teknik_mesin</item>
+        <item>@drawable/teknik_elektro</item>
+        <item>@drawable/pwk</item>
+        <item>@drawable/teknik_industri</item>
+        <item>@drawable/teknik_lingkungan</item>
+        <item>@drawable/teknik_kapal</item>
+        <item>@drawable/teknik_geodesi</item>
+    </integer-array>
+
+    <string-array name="data_link">
+        <item>https://sipil.ft.undip.ac.id/</item>
+        <item>https://arsitektur.ft.undip.ac.id/</item>
+        <item>https://tekim.ft.undip.ac.id/</item>
+        <item>https://mesin.ft.undip.ac.id/</item>
+        <item>https://elektro.ft.undip.ac.id/v3/en/</item>
+        <item>https://pwk.ft.undip.ac.id/id/beranda/</item>
+        <item>https://industri.ft.undip.ac.id/en/home-2/</item>
+        <item>https://lingkungan.ft.undip.ac.id/en/hestia-front-2/</item>
+        <item>https://perkapalan.undip.ac.id/en/welcome-to/</item>
+        <item>https://geodesi.ft.undip.ac.id/</item>
+    </string-array>
+</resources>
